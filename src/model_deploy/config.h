@@ -57,7 +57,7 @@ struct Config {
 
         " * * * * * * * * \n\r",
         
-        "Cross:\n\r"
+        "z:\n\r"
         " *               \n\r"
         " *               \n\r"
         " *               \n\r"
