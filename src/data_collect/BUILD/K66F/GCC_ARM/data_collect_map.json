@@ -5,9 +5,9 @@
             ".text": 39777,
             ".data": 473,
             ".bss": 7414,
-            ".text-delta": 39777,
-            ".data-delta": 473,
-            ".bss-delta": 7414
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
@@ -16,9 +16,9 @@
             ".text": 1410,
             ".data": 4,
             ".bss": 680,
-            ".text-delta": 1410,
-            ".data-delta": 4,
-            ".bss-delta": 680
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
@@ -27,9 +27,9 @@
             ".text": 209,
             ".data": 7,
             ".bss": 37,
-            ".text-delta": 9,
-            ".data-delta": -4,
-            ".bss-delta": -4
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
@@ -38,7 +38,7 @@
             ".text": 34865,
             ".data": 2472,
             ".bss": 89,
-            ".text-delta": 174,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -77,165 +77,11 @@
         }
     },
     {
-        "module": "components/802.15.4_RF",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -16,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "components/wifi",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -125,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "drivers/source",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -1964,
-            ".data-delta": 0,
-            ".bss-delta": -44
-        }
-    },
-    {
-        "module": "events/source",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -415,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "hal/mbed_critical_section_api.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -148,
-            ".data-delta": 0,
-            ".bss-delta": -2
-        }
-    },
-    {
-        "module": "hal/mbed_gpio.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -168,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "hal/mbed_lp_ticker_api.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -72,
-            ".data-delta": -4,
-            ".bss-delta": -64
-        }
-    },
-    {
-        "module": "hal/mbed_pinmap_common.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -248,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "hal/mbed_ticker_api.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -1227,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
-        "module": "hal/mbed_us_ticker_api.o",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -108,
-            ".data-delta": -4,
-            ".bss-delta": -65
-        }
-    },
-    {
-        "module": "platform/source",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -7985,
-            ".data-delta": -261,
-            ".bss-delta": -309
-        }
-    },
-    {
-        "module": "project1/BUILD",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -490,
-            ".data-delta": 0,
-            ".bss-delta": -572
-        }
-    },
-    {
-        "module": "rtos/source",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -10876,
-            ".data-delta": -168,
-            ".bss-delta": -5980
-        }
-    },
-    {
-        "module": "targets/TARGET_Freescale",
-        "size": {
-            ".text": 0,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": -13181,
-            ".data-delta": -36,
-            ".bss-delta": -950
-        }
-    },
-    {
         "summary": {
             "static_ram": 11208,
-            "static_ram_delta": 104,
+            "static_ram_delta": 0,
             "total_flash": 82545,
-            "total_flash_delta": 4347
+            "total_flash_delta": 0
         }
     }
 ]
