@@ -58,7 +58,7 @@ struct Config {
         " * * * * * * * * \n\r"
         ,
         
-        "Z:\n\r"
+        "Bungee:\n\r"
         "                \n\r"
         "                \n\r"
         "                \n\r"
