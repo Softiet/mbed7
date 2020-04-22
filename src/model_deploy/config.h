@@ -5,7 +5,7 @@
 
 // The number of labels (without negative)
 
-#define label_num 2
+#define label_num 3
 
 
 struct Config {
@@ -56,9 +56,9 @@ struct Config {
         "  *              \n\r"
 
         " * * * * * * * * \n\r"
-        /*,
+        ,
         
-        ":\n\r"
+        "Z:\n\r"
         "                \n\r"
         "                \n\r"
         "                \n\r"
@@ -67,7 +67,7 @@ struct Config {
         "                \n\r"
         "                \n\r"
         "                \n\r"
-        */
+        
         };
         
 };
